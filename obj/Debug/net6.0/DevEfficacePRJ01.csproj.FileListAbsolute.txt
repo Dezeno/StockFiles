@@ -1,0 +1,14 @@
+C:\Users\enzod\Desktop\IUT\Année 2\Semestre 1\R3.02 - Dev. Efficace\DevEfficacePRJ01\bin\Debug\net6.0\DevEfficacePRJ01.exe
+C:\Users\enzod\Desktop\IUT\Année 2\Semestre 1\R3.02 - Dev. Efficace\DevEfficacePRJ01\bin\Debug\net6.0\DevEfficacePRJ01.deps.json
+C:\Users\enzod\Desktop\IUT\Année 2\Semestre 1\R3.02 - Dev. Efficace\DevEfficacePRJ01\bin\Debug\net6.0\DevEfficacePRJ01.runtimeconfig.json
+C:\Users\enzod\Desktop\IUT\Année 2\Semestre 1\R3.02 - Dev. Efficace\DevEfficacePRJ01\bin\Debug\net6.0\DevEfficacePRJ01.dll
+C:\Users\enzod\Desktop\IUT\Année 2\Semestre 1\R3.02 - Dev. Efficace\DevEfficacePRJ01\bin\Debug\net6.0\DevEfficacePRJ01.pdb
+C:\Users\enzod\Desktop\IUT\Année 2\Semestre 1\R3.02 - Dev. Efficace\DevEfficacePRJ01\obj\Debug\net6.0\DevEfficacePRJ01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzod\Desktop\IUT\Année 2\Semestre 1\R3.02 - Dev. Efficace\DevEfficacePRJ01\obj\Debug\net6.0\DevEfficacePRJ01.AssemblyInfoInputs.cache
+C:\Users\enzod\Desktop\IUT\Année 2\Semestre 1\R3.02 - Dev. Efficace\DevEfficacePRJ01\obj\Debug\net6.0\DevEfficacePRJ01.AssemblyInfo.cs
+C:\Users\enzod\Desktop\IUT\Année 2\Semestre 1\R3.02 - Dev. Efficace\DevEfficacePRJ01\obj\Debug\net6.0\DevEfficacePRJ01.csproj.CoreCompileInputs.cache
+C:\Users\enzod\Desktop\IUT\Année 2\Semestre 1\R3.02 - Dev. Efficace\DevEfficacePRJ01\obj\Debug\net6.0\DevEfficacePRJ01.dll
+C:\Users\enzod\Desktop\IUT\Année 2\Semestre 1\R3.02 - Dev. Efficace\DevEfficacePRJ01\obj\Debug\net6.0\refint\DevEfficacePRJ01.dll
+C:\Users\enzod\Desktop\IUT\Année 2\Semestre 1\R3.02 - Dev. Efficace\DevEfficacePRJ01\obj\Debug\net6.0\DevEfficacePRJ01.pdb
+C:\Users\enzod\Desktop\IUT\Année 2\Semestre 1\R3.02 - Dev. Efficace\DevEfficacePRJ01\obj\Debug\net6.0\DevEfficacePRJ01.genruntimeconfig.cache
+C:\Users\enzod\Desktop\IUT\Année 2\Semestre 1\R3.02 - Dev. Efficace\DevEfficacePRJ01\obj\Debug\net6.0\ref\DevEfficacePRJ01.dll
